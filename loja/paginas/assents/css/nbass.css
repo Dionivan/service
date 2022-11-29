@@ -1,0 +1,83 @@
+.navega{
+    display: flex;
+    flex-direction: row;
+    gap: 35px;
+}
+.Menu {      
+    font-size: 18px;
+    color: rgb(255, 249, 249);
+    transition: 0.5s;
+    opacity: 0.7;
+}
+.Login {
+    font-family: 'Ms Madi', cursive;
+    font-weight: 400;
+    font-size: 25px;
+    color: rgb(255, 0, 0);
+    background-color: rgb(8, 8, 109);
+    box-shadow: rebeccapurple;
+    border-radius: 10px;
+    width: 65px;
+    height: 30px;
+    transition: 0.5s;
+    opacity: 0.9;
+}
+
+.Corpo {
+    border-top: 0.4px solid blueviolet;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+#msg-sucesso{
+    color: darkred;
+    align-items: center;  
+}
+.msg-erro{
+    color: darkred;
+    margin-top: 5%;
+    text-align: center;
+}
+.lançamento{
+    margin-top: 80px;
+    margin-bottom: 80px;
+    background-color: rgb(91, 75, 122);
+    display: flex;
+    flex-direction: row;
+    color: white;
+}
+.container{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.img{
+    background-color: rgb(91, 75, 122);
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: 3px;
+    margin-left: 3px;
+}
+.item{
+    border-top: 40px;
+    border-bottom: 40px;
+    display: flex;  
+    flex-direction: row;
+    width: auto;
+    float: left;    
+}
+.nav-main{
+    color: darkred;
+    margin-top: 2%;
+    align-items: flex-start;
+}
+.titulo-acesso{
+    color: darkred;
+    font-size: 250%;
+    font-family: 'Tapestry', cursive;
+    margin: 5px;
+    font-weight: 400;
+}
+
+
