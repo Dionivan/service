@@ -1,5 +1,5 @@
 <header>
-    <section class="prim">
+    <section id="prim">
             <a href="../paginas/inicio.php"> 
                 <img src="../paginas/assents/img/logo.png" id="logo"alt="Logotipo" >
             </a>
@@ -10,7 +10,7 @@
                 </a>
             </div>
             <div class="cliente">
-            <a class="Login" href="../paginas/login.php">
+            <a class="login" href="../paginas/login.php">
                 <img src="../paginas/assents/img/usuario.svg" alt="Usuario">
             </a>
             <a href="#">
@@ -18,7 +18,7 @@
             </a>  
             </div>   
     </section>
-    <section class="seg">
+    <section id="seg">
             <!--<a class="Menu" href="../paginas/inicio.php"> 
                 Inicial
             </a>-->

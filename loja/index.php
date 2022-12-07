@@ -1,3 +1,3 @@
 <?php
 
-header ("location: ../mangaska/paginas/inicio.php");
+header ("location: paginas/inicio.php");

@@ -1,21 +1,21 @@
 <?php
 
 $titulos = [
-    'inicio.php' => 'Inicio | Mangáska',
-    'catalogo.php' => 'Catálogo | Mangáska',
-    'comunidade.php' => 'Comunidade| Mangáska',
-    'galeria.php' => 'Galeria | Mangáska',
-    'login.php' => 'Login | Mangáska',
-    'cadastro.php' => 'Cadastro | Mangáska',
-    'infocadastro.php' => 'Cadastro | Mangáska',
-    'infologin.php'=>'Login | Mangáska',
-    'perfil.php'=> 'Perfil | Mangáska',
-    'sobre.php'=>'Sobre nós | Mangáska',
-    'termos.php'=>'Termos e condições | Mangáska',
-    'dungeon-reset.php'=>'Dugeon Reset | Mangáska',
-    'heavenly-demon-cultivation.php'=>'Heavenly Demon Cultivation | Mangáska',
-    'mushoku-tensei.php'=>'Mushoku Tensei | Mangáska',
-    'swordmaster.php'=>'Swordmaster | Mangáska'
+    'inicio.php' => 'Inicio | Another Dimension ',
+    'catalogo.php' => 'Catálogo | Another Dimension',
+    'comunidade.php' => 'Comunidade| Another Dimension',
+    'galeria.php' => 'Galeria | Another Dimension',
+    'login.php' => 'Login | Another DimensionAnother Dimension',
+    'cadastro.php' => 'Cadastro | Another Dimension',
+    'infocadastro.php' => 'Cadastro | Another Dimension',
+    'infologin.php'=>'Login | Another Dimension',
+    'perfil.php'=> 'Perfil | Another Dimension',
+    'sobre.php'=>'Sobre nós | Another Dimension',
+    'termos.php'=>'Termos e condições | Another Dimension',
+    'dungeon-reset.php'=>' | Another Dimension',
+    'heavenly-demon-cultivation.php'=>' | Another Dimension',
+    'mushoku-tensei.php'=>' | Another Dimension',
+    'swordmaster.php'=>' | Another Dimension'
     #pode ter 'n' páginas
 ];
 
