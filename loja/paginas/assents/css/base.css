@@ -57,13 +57,22 @@ header > section#seg{
 .cliente{
     margin-right: 30px;
 }
-.cliente>img{
-    width: 80px;
+.cliente> a >img{
+    width: 50px;
+    margin-left: 20px;
+}
+main{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin-top: 5%;
 }
 main > section{
     background-color: #505D89;
+
 }
-/*main > section > div
+/*
 footer{
     background-color:  #505D89;
     display: flex;

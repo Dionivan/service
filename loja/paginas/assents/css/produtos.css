@@ -1,0 +1,11 @@
+#container{
+    display: inline-grid;
+    grid-template-columns:auto auto 3;
+    /*display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    margin: 15%;*/
+}
+h1{
+    color: black;
+}

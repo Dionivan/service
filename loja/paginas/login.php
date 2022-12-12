@@ -24,7 +24,7 @@ require_once "../src/view/header_nav.php";
                 <input type="submit" value="Enviar dados" class="cadastro">
                 <input type="reset" value="Apagar dados" class="cadastro">
                 <hr>
-                    <a class="dropdown-item" href="../paginas/cadastro.php" style="color: darkred;">Novo, por aqui? Regitre-se.</a>
+                    <a class="dropdown-item" href="../paginas/cadastro.php" style="color: darkred;">Novo, por aqui? Registre-se.</a>
                     <a class="dropdown-item" href="#" style="color: darkred;">Esqueceu a senha?</a>
             </div>
 

@@ -32,6 +32,7 @@ $uri = (explode("/", $_SERVER['PHP_SELF']));
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title><?= $titulos[end($uri)] ?></title>
     <link rel="stylesheet" type="text/css" href="../paginas/assents/css/base.css">
+    <link rel="stylesheet" href="../paginas/assents/css/produtos.css">
     <link rel="shortcut icon" href="../paginas/assents/img/navicon.png" type="image/x-icon">
 </head>
 <body>
