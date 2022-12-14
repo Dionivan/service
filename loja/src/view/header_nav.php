@@ -23,14 +23,14 @@
                 Inicial
             </a>-->
             <a class="Menu" href="../paginas/catalogo.php">
-                Catálogo 
+                Categoria
             </a>
             <a class="Menu" href="../paginas/comunidade.php">
-                Comunidade
+                Mais vendidos
             </a>
-            <a class="Menu" href="../paginas/galeria.php"> 
+            <!--<a class="Menu" href="../paginas/galeria.php"> 
                 Galeria
-            </a>
+            </a>-->
     </section>
         
 </div>

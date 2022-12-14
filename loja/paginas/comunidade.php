@@ -2,45 +2,71 @@
 <?php require_once "../src/view/header_nav.php" ?>
 
 
-    <main class="Corpo">
-    
-            <br>
+<main>
+        <h1>Mais vendidos</h1>
+        <section id="container">
+         <div class="produto">
+            <img src="https://http2.mlstatic.com/D_NQ_NP_744668-MLB49714073340_042022-O.webp">
+            <h3>R$79,00</h3>
+            <p><b>Em até 5x sem juros</b>
+            </p>
+            <p>Satoru Gojo Action Figure
+                Jujutsu Kaisen Coleção Anime 20cm</p>
 
-        <h2> <p>Bem-vindo(a) ha comunidade!</p> </h2>
+         </div>
+         <div class="produto">
+            <img src="https://http2.mlstatic.com/D_NQ_NP_800022-MLB47307551312_082021-O.webp" alt="imagem-do-produto">
+            <h3>R$124,00</h3>
+            <p><b>   Em até 6x sem juros</b>
+            </p>
+            <p>Kit 8 bonecos action figure Dragon Ball Z, Super</p>
+         </div>
+         <div class="produto">
+            <img src="https://http2.mlstatic.com/D_NQ_NP_840975-MLB49296678076_032022-O.webp" alt="imagem-do-produto">
+            <h3>R$133,00</h3>
+            <p><b>Em até 6x sem juros</b>
+            </p>
+            <p>Kit 12 Bonecos Naruto Itachi Sasuke Kakashi Action Figure</p>
+         </div>
+         <div class="produto">
+            <img src="https://http2.mlstatic.com/D_NQ_NP_651722-MLB50573730428_072022-O.webp" alt="imagem-do-produto">
+            <h3>R$249,00</h3>
+            <p><b>Em até 6x sem juros</b>
+            </p>
+            <p>Action Figure Naruto Sasuke Uchiha Boneco 26cm Itachi Madara</p>
+         </div>
+         <div class="produto">
+            <img src="https://http2.mlstatic.com/D_NQ_NP_897646-MLB48626279219_122021-O.webp" alt="imagem-do-produto">
+            <h3>R$118,00</h3>
+            <p><b>Em até 6x sem juros</b>
+            </p>
+            <p>Action Figure Izuku Midoriya My Hero Academy</p>
+         </div>
+         <div class="produto">
+            <img src="https://http2.mlstatic.com/D_NQ_NP_649053-MLB41251272514_032020-O.webp" alt="imagem-do-produto">
+            <h3>R$200,00</h3>
+            <p><b>Em até 6x sem juros</b>
+            </p>
+            <p>Figura My Hero Academia Enter The Hero Bakugo</p>
+         </div>
+         <div class="produto">
+            <img src="https://http2.mlstatic.com/D_NQ_NP_885508-MLB52694865525_122022-O.webp" alt="imagem-do-produto">
+            <h3>R$190,00</h3>
+            <p><b>   Em até 6x sem juros</b>
+            </p>
+            <p>Boneco Roronoa Zoro Action Figure Anime One Piece Grandline</p>
+         </div>
+         <div class="produto">
+            <img src="https://http2.mlstatic.com/D_NQ_NP_2X_919437-MLB31859298504_082019-F.webp" alt="imagem-do-produto">
+            <h3>R$150,00</h3>
+            <p><b>Em até 6x sem juros</b>
+            </p>
+            <p>Action Figure One 
+               Piece Portgas D. Ace </p>
+         </div>
 
-        <style scoped>
-        p { color: white; }
-        </style>
-
-    <div>
-        <img src="../paginas/assents/img/mang_ska_free-file2.png" alt="mang_ska_free-file">
-    </div>
-
-            <br>
-            <br>
-            <br>
-            <br>
-            <br>
-    
-        <H5>>Acesso da comunidade no link ha baixo!</H5>
-
-        <p>Ao clicar no link abaixo, você será redirecionado para o Discord, onde fica a nossa comunidade...</p>
-        <p>você poderá interagir com outras pessoas, fazer amigos e descobrir novos animes/mangás!</p>
-
-            <br>
-
-            <a href="https://discord.gg/kcSyXFFrUf">COMUNIDADE</a></p>
-
-            <br>
-            <br>
-            <br>
-
-    <div align="center" class="comunidade">
-        <img src="../paginas/assents/img/Web_Photo_Editor.jpg" height="600px"/>   
-    </div>
-
-    </main>
-
+        </section>
+    </main> 
     
 
 <?php require_once "../src/view/footer.php"?>
