@@ -3,7 +3,7 @@
 $titulos = [
     'inicio.php' => 'Inicio | Another Dimension ',
     'catalogo.php' => 'Catálogo | Another Dimension',
-    'comunidade.php' => 'Comunidade| Another Dimension',
+    'top.php' => 'Os mais vendidos | Another Dimension',
     'galeria.php' => 'Galeria | Another Dimension',
     'login.php' => 'Login | Another DimensionAnother Dimension',
     'cadastro.php' => 'Cadastro | Another Dimension',

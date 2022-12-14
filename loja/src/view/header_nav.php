@@ -25,7 +25,7 @@
             <a class="Menu" href="../paginas/catalogo.php">
                 Categoria
             </a>
-            <a class="Menu" href="../paginas/comunidade.php">
+            <a class="Menu" href="../paginas/top.php">
                 Mais vendidos
             </a>
             <!--<a class="Menu" href="../paginas/galeria.php"> 
